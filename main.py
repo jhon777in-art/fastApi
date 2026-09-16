@@ -8,7 +8,7 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Lista en memoria (sin base de datos)
+
 tareas = []
 contador_id = 0
 
